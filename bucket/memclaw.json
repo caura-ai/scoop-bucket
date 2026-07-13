@@ -1,19 +1,19 @@
 {
-    "version": "0.8.2",
+    "version": "0.8.3",
     "architecture": {
         "64bit": {
-            "url": "https://memclaw.net/memclaw/v0.8.2/memclaw_0.8.2_windows_x86_64.zip",
+            "url": "https://memclaw.net/memclaw/v0.8.3/memclaw_0.8.3_windows_x86_64.zip",
             "bin": [
                 "memclaw.exe"
             ],
-            "hash": "0ced8ea56297f7ffc5cdef00c94cc9c7c619ee2b96cf969cafb6733da6e1facf"
+            "hash": "883503aa97ab444d56b1e530b0b4215ec75c2cd87afbc672ac66e7274fcd3762"
         },
         "arm64": {
-            "url": "https://memclaw.net/memclaw/v0.8.2/memclaw_0.8.2_windows_arm64.zip",
+            "url": "https://memclaw.net/memclaw/v0.8.3/memclaw_0.8.3_windows_arm64.zip",
             "bin": [
                 "memclaw.exe"
             ],
-            "hash": "8d5f50b0eec049a805d4cf38215da45655e5df2bfc11dd97bbca2e2c49f176d5"
+            "hash": "ce38cbb4287fb42efc805c9acc3ca8c7f31d9cf69b78b06128f75556e46a8fc8"
         }
     },
     "homepage": "https://memclaw.net",
