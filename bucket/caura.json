@@ -1,19 +1,19 @@
 {
-    "version": "0.10.4",
+    "version": "0.10.5",
     "architecture": {
         "64bit": {
-            "url": "https://caura.ai/caura/v0.10.4/memclaw_0.10.4_windows_x86_64.zip",
+            "url": "https://caura.ai/caura/v0.10.5/memclaw_0.10.5_windows_x86_64.zip",
             "bin": [
                 "caura.exe"
             ],
-            "hash": "143053d1e86a83ceefeee0898bd5ce25cb6b0afc805873aa2bb4811c3e7ad04c"
+            "hash": "d5003557e6742db50e6c197bc665384aca226d60f14816700388172cc5f2fd72"
         },
         "arm64": {
-            "url": "https://caura.ai/caura/v0.10.4/memclaw_0.10.4_windows_arm64.zip",
+            "url": "https://caura.ai/caura/v0.10.5/memclaw_0.10.5_windows_arm64.zip",
             "bin": [
                 "caura.exe"
             ],
-            "hash": "f0466d26d23824a993cd9b80fbf9ca30f9b6d534f72f4d5b38b39538126fabe2"
+            "hash": "0d9669452ef3c64b9fe9cd8abd07ee80234d54e3afacc1f3077296f11632aafe"
         }
     },
     "homepage": "https://caura.ai",
