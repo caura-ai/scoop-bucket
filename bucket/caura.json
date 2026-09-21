@@ -1,22 +1,22 @@
 {
-    "version": "0.10.5",
+    "version": "0.11.0",
     "architecture": {
         "64bit": {
-            "url": "https://caura.ai/caura/v0.10.5/memclaw_0.10.5_windows_x86_64.zip",
+            "url": "https://caura.ai/caura/v0.11.0/caura_0.11.0_windows_x86_64.zip",
             "bin": [
                 "caura.exe"
             ],
-            "hash": "d5003557e6742db50e6c197bc665384aca226d60f14816700388172cc5f2fd72"
+            "hash": "94c55f688f1a1fd319c3779811c34365c9e261124c0ffb0981ea35838a0e209d"
         },
         "arm64": {
-            "url": "https://caura.ai/caura/v0.10.5/memclaw_0.10.5_windows_arm64.zip",
+            "url": "https://caura.ai/caura/v0.11.0/caura_0.11.0_windows_arm64.zip",
             "bin": [
                 "caura.exe"
             ],
-            "hash": "0d9669452ef3c64b9fe9cd8abd07ee80234d54e3afacc1f3077296f11632aafe"
+            "hash": "6810d93972044e3a20ea18fdaab73d93093f52b8d07b30c94730a923e1a29225"
         }
     },
     "homepage": "https://caura.ai",
     "license": "Apache-2.0",
-    "description": "Local memory broker for AI coding agents"
+    "description": "Local memory broker for AI coding agents (final release in this bucket; see README)"
 }

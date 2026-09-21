@@ -1,5 +1,15 @@
 # Caura Scoop bucket
 
+> **This bucket is retired. 0.11.0 is its final release.**
+>
+> Automated publishing was removed from the `caura-daemon` release workflow on
+> 2026-09-09, so no version after 0.11.0 will appear here. 0.11.0 was pinned
+> manually so that anyone already installed gets one last upgrade — it is the
+> first release whose artifacts carry the `caura` name.
+>
+> Move to a supported channel when convenient: `npx caurad` or `uvx caurad`.
+> See <https://caura.ai> for the current install guide.
+
 ## Install
 
 ```powershell
@@ -26,5 +36,6 @@ scoop install caura-ai/caura
 This replaces the Scoop package only; it does not automatically move or rename
 your state directory.
 
-Manifests are auto-published by GoReleaser from the `caura-daemon` release
-workflow on each stable release.
+Manifests were auto-published by GoReleaser from the `caura-daemon` release
+workflow until 2026-09-09, when that configuration was removed. The 0.11.0
+manifest was written by hand as the final release; nothing regenerates it.
